@@ -1,0 +1,5 @@
+Line 1: This is an example file.
+Line 2: It contains multiple lines of text.
+Line 3: Each line will be read by the Java program.
+Line 4: Make sure to save this file in the correct directory.
+Line 5: Have a great day!
